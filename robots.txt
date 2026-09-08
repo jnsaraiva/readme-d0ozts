@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jnsaraiva.github.io/readme-d0ozts/sitemap.xml
